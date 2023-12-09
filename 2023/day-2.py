@@ -1,8 +1,6 @@
-# Advent of code Day 2 | 2023
+# Advent of code DAY 2 | 2023
 # https://adventofcode.com/2023/day/2
 print("Advent of code Day 2 | 2023\n")
-import time
-
 with open("2023/input/day-2.txt", "r") as f:
     data = {}
 
